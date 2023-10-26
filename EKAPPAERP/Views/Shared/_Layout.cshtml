@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - EKAPPAERP</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/EKAPPAERP.styles.css" asp-append-version="true" />
+   
+    
+    <link href="~/fonts/stylesfonts.css" rel="stylesheet" />
+    <link href="~/css/360_view.css" rel="stylesheet" />
+    <link href="~/css/stylesheet.css" rel="stylesheet" />
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <!-- heeder section start -->
+    <header id="header">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 topbar text-center">
+                    <a href="/Product/home">
+                        <img src="~/images/logosmall.png" />
+                    </a>
+                </div>
+                <div class="col-12">
+                    <div class="navbar">
+                        <ul class="list-unstyled">
+                            <li>
+                                <a href="#"> Masks</a>
+                            </li>
+                            <li>
+                                <a onclick="BasketItems()" class="active" href="javascript:void(0)"> Basketball</a>
+                            </li>
+                            <li>
+                                <a href="#">Baseball</a>
+                            </li>
+                            <li>
+                                <a href="#"> Soccer </a>
+                            </li>
+                            <li>
+                                <a href="#"> Hockey</a>
+                            </li>
+                            <li>
+                                <a href="#"> Volleyball</a>
+                            </li>
+                            <li>
+                                <a href="#"> T-Shirts</a>
+                            </li>
+                            <li>
+                                <a href="#"> Sweatshirts</a>
+                            </li>
+                            <li>
+                                <a href="#"> Tops and Pants</a>
+                            </li>
+                            <li>
+                                <a href="#"> Samples</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- heeder section end -->
+    <div class="container-fluid px-0">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- footer html start -->
+    <footer class="footer-section text-md-left" id="app-footer">
+        <div class="container-fluid">
+            <div class="row justify-content-between align-items-start">
+                <div class="col-12 col-md-6">
+                    <a href="/Product/home">
+                        <img src="~/images/logosmall_wht.png" />
+                    </a>
+                </div>
+                <div class="col-12 col-md-6">
+                    <ul class="footerlinks">
+                        <li>
+                            <a href="#">Help</a>
+                        </li>
+                        <li>
+                            <a href="#">Your Account</a>
+                        </li>
+                        <li>
+                            <a href="#">Talk To Us</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="divide-border"></div>
+            <div class="row mt-3 text-center justify-content-between align-items-start">
+                <div class="col-12 col-md-12 Copyright">
+                    <h6> © Copyright 2023 - Company Name. All rights reserved. </h6>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- footer html end -->
+
+    <!-- footer html start end -->
+    <!-- Optional JavaScript -->
+   @* <script src="js/jquery.min.js"></script>*@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/CustomJs/headersticky.js" type="text/javascript"></script>
+    <script src="~/CustomJs/pdt360DegViewer.js"></script>
+    <script src="~/CustomJs/360_view.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

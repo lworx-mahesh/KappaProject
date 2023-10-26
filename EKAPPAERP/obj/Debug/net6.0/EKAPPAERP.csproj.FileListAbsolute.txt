@@ -1,0 +1,147 @@
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\bin\Debug\net6.0\appsettings.Development.json
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\bin\Debug\net6.0\appsettings.json
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.staticwebassets.runtime.json
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.exe
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.deps.json
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.runtimeconfig.json
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.dll
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.pdb
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.csproj.AssemblyReference.cache
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.AssemblyInfoInputs.cache
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.AssemblyInfo.cs
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.csproj.CoreCompileInputs.cache
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.RazorAssemblyInfo.cache
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.RazorAssemblyInfo.cs
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\staticwebassets\msbuild.EKAPPAERP.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\staticwebassets\msbuild.build.EKAPPAERP.props
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EKAPPAERP.props
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EKAPPAERP.props
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\staticwebassets.build.json
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\staticwebassets.development.json
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\scopedcss\bundle\EKAPPAERP.styles.css
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\scopedcss\projectbundle\EKAPPAERP.bundle.scp.css
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.csproj.CopyComplete
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.dll
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\refint\EKAPPAERP.dll
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.pdb
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.genruntimeconfig.cache
+D:\Work\Projects\KAPPA ERP\EKAPPAERP\obj\Debug\net6.0\ref\EKAPPAERP.dll
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\bin\Debug\net6.0\appsettings.Development.json
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\bin\Debug\net6.0\appsettings.json
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.staticwebassets.runtime.json
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.exe
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.deps.json
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.runtimeconfig.json
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.dll
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.pdb
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.csproj.AssemblyReference.cache
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.GeneratedMSBuildEditorConfig.editorconfig
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.AssemblyInfoInputs.cache
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.AssemblyInfo.cs
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.csproj.CoreCompileInputs.cache
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.MvcApplicationPartsAssemblyInfo.cache
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.RazorAssemblyInfo.cache
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.RazorAssemblyInfo.cs
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\staticwebassets.build.json
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\staticwebassets.development.json
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\scopedcss\bundle\EKAPPAERP.styles.css
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\scopedcss\projectbundle\EKAPPAERP.bundle.scp.css
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.csproj.CopyComplete
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.dll
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\refint\EKAPPAERP.dll
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.pdb
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.genruntimeconfig.cache
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\obj\Debug\net6.0\ref\EKAPPAERP.dll
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\bin\Debug\net6.0\EkappaERP.BAL.dll
+D:\narinder\Kappa_Ecommerce\jay\EKAPPAERP\bin\Debug\net6.0\EkappaERP.BAL.pdb
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\bin\Debug\net6.0\appsettings.Development.json
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\bin\Debug\net6.0\appsettings.json
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.staticwebassets.runtime.json
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.exe
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.deps.json
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.runtimeconfig.json
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.pdb
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\bin\Debug\net6.0\EkappaERP.BAL.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\bin\Debug\net6.0\EkappaERP.BAL.pdb
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.csproj.AssemblyReference.cache
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.AssemblyInfoInputs.cache
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.AssemblyInfo.cs
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.csproj.CoreCompileInputs.cache
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.MvcApplicationPartsAssemblyInfo.cache
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.RazorAssemblyInfo.cache
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.RazorAssemblyInfo.cs
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\staticwebassets\msbuild.EKAPPAERP.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\staticwebassets\msbuild.build.EKAPPAERP.props
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EKAPPAERP.props
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EKAPPAERP.props
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\staticwebassets.build.json
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\staticwebassets.development.json
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\scopedcss\bundle\EKAPPAERP.styles.css
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\scopedcss\projectbundle\EKAPPAERP.bundle.scp.css
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.csproj.CopyComplete
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\refint\EKAPPAERP.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.pdb
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.genruntimeconfig.cache
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\EKAPPAERP\obj\Debug\net6.0\ref\EKAPPAERP.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\bin\Debug\net6.0\appsettings.Development.json
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\bin\Debug\net6.0\appsettings.json
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.staticwebassets.runtime.json
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.exe
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.deps.json
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.runtimeconfig.json
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\bin\Debug\net6.0\EKAPPAERP.pdb
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\bin\Debug\net6.0\EkappaERP.BAL.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\bin\Debug\net6.0\EkappaERP.BAL.pdb
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.csproj.AssemblyReference.cache
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.AssemblyInfoInputs.cache
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.AssemblyInfo.cs
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.csproj.CoreCompileInputs.cache
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.MvcApplicationPartsAssemblyInfo.cache
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.RazorAssemblyInfo.cache
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.RazorAssemblyInfo.cs
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\staticwebassets\msbuild.EKAPPAERP.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\staticwebassets\msbuild.build.EKAPPAERP.props
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EKAPPAERP.props
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EKAPPAERP.props
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\staticwebassets.build.json
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\staticwebassets.development.json
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\scopedcss\bundle\EKAPPAERP.styles.css
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\scopedcss\projectbundle\EKAPPAERP.bundle.scp.css
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.csproj.CopyComplete
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\refint\EKAPPAERP.dll
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.pdb
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\EKAPPAERP.genruntimeconfig.cache
+D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\obj\Debug\net6.0\ref\EKAPPAERP.dll

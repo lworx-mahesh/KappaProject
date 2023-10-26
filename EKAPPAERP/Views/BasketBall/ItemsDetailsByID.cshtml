@@ -1,0 +1,291 @@
+﻿
+<style>
+    .loader {
+        position: fixed;
+        left: 0px;
+        top: 0px;
+        width: 100%;
+        height: 100%;
+        z-index: 9999;
+        background: url('/img/pageLoader2.gif') 50% 50% no-repeat rgb(249,249,249);
+       
+      
+        opacity: .8;
+    }
+</style>
+
+<section class="product_items_section">
+    <div class="container-fluid">
+        <div class="row">
+            <div id="product-details-section" class="col-12">
+                <div class="row">
+                    <div class="col-12 col-sm-4">
+                        <div class="image-product-container">
+                            <!-- <h4 class="image-product">Slider Image</h4> -->
+                            <div class="row mt-3 justify-content-between align-items-start">
+                                <div class="col rotate-view">
+                                    <ul class="list-unstyled">
+                                        <li><img src="~/images/360_view.png"></li>
+                                        <li><img src="~/images/meserment.png"></li>
+                                    </ul>
+                                </div>
+                                <div class="col zoom-img">
+                                    <img src="~/images/zoom_icon.png">
+                                </div>
+                            </div>
+
+                            <!-- 360degree view product start -->
+                            <div id="pdtViewer">
+                                <div class="loader"></div>
+                                <div id="product_item_view"></div>
+                            </div>
+                            <div id="dummy"></div>
+                        </div>
+
+                        <!-- 360degree view product end -->
+                    </div>
+                    <div class="col-12 col-sm-8">
+                        <div class="image-product-details">
+                            <div class="product-patterns-disabled hidden"> <div> <p>DP</p> </div> </div>
+                            <h3> Mens Los Angeles Reversible Jersey </h3>
+                            <div class="product-disabled hidden"> <div> <p>Sold Out</p> </div> </div>
+                            <div class="col-12">
+                                <div class="info mt-1">
+                                    <div class="sku">
+                                        <span> SKU #: </span> BK105M
+                                        <span class="hidden"> | Disabled Patterns </span>
+                                    </div>
+                                    <div class="price">
+                                        <div class="price_reg">
+                                            $79.99
+                                        </div>
+                                    </div>
+                                    <div class="store">
+                                        <a href="/store/MY7143">Basketball Catalog</a>
+                                    </div>
+                                    <div class="tooltipshow">
+                                        <i class="fas fa-share-alt"></i>
+                                        <div class="tooltip">
+                                            Share Your Product Configuration..
+                                        </div>
+                                    </div>
+                                    <div class="pickers">
+                                        <div class="sides-list">
+                                            <h6> Reversible Sides Selector <span class="desc">(each side has own colors and designs)</span> </h6>
+                                            <div class="sides-image">
+                                                <div id="frontside" class="product_side activeside">
+                                                    <img src="~/images/product_sides/product_front.jpg" alt="Product Sides">
+                                                    <span>Front Side</span>
+                                                </div>
+                                                <div id="backside" class="product_side">
+                                                    <img src="~/images/product_sides/product_back.jpg" alt="Product Sides">
+                                                    <span>Back Side</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="product-details col-12">
+                                            <div class="row">
+                                                <h6>Player Information</h6>
+                                            </div>
+                                            <div class="row mt-2">
+                                                <form class="col-12">
+                                                    <div class="row mb-3">
+                                                        <div class="form-group">
+                                                            <label>Player Name</label>
+                                                            <input type="text" placeholder="Player Name" id="PlayerName"  class="form-control" name="">
+                                                            <div class="textformat">
+                                                                <img src="~/images/uppercasetext.png" alt="textformat">
+                                                                <img src="~/images/lowercasetext.png" alt="textformat">
+                                                            </div>
+                                                            <span class="inputcount">1/150</span>
+                                                        </div>
+                                                        <div class="form-group my-3">
+                                                            <input type="text" placeholder="Player Number" class="form-control" name="">
+                                                            <span class="inputcount">1/150</span>
+                                                        </div>
+                                                        <div class="form-group">
+                                                            <label>Size</label>
+                                                            <select id="selectSize" class="form-control" name="size-selector" aria-label="size-selector">
+                                                                <option value="XS">XS</option>
+                                                                <option value="S" selected="true">S</option>
+                                                                <option value="M">M</option>
+                                                                <option value="L">L</option>
+                                                                <option value="XL">XL</option>
+                                                                <option value="2XL">2XL</option>
+                                                                <option value="3XL">3XL</option>
+                                                                <option value="4XL">4XL</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                    <div class="row">
+                                                        <div class="sizemeter-section">
+                                                            <div class="sizemetter-icon">
+                                                                <img src="~/images/sizemetersmall.png" alt="sizeselector">
+                                                                <img src="~/images/sizemetersmall_blue.png" alt="sizeselector">
+                                                            </div>
+                                                            <div class="sizemetter-text">
+                                                                <span class="ShowMeasurements"> Show Measurements </span>
+                                                                <span class="HideMeasurements"> Hide Measurements</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label>Quantity</label>
+                                                        <div class="input-group w-auto justify-content-end align-items-center">
+                                                            <input type="button" value="-" class="button-minus border rounded-circle  icon-shape icon-sm mx-1 " data-field="quantity">
+                                                            <input type="number" step="1" max="10" value="1" name="quantity" class="quantity-field border-0 text-center w-25">
+                                                            <input type="button" value="+" class="button-plus border rounded-circle icon-shape icon-sm " data-field="quantity">
+                                                        </div>
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <h6 class="mb-3">Description</h6>
+                                                        <ul class="list-unstyled">
+                                                            <li>DNA-COOL</li>
+                                                            <li>CLOSE HOLE MESH DOUBLE KNIT POLYESTER WITH SMOOTH BACK</li>
+                                                            <li>7.2 OZ/YD2 OR 245 GSM</li>
+                                                            <li>MOISTURE MANAGMENT</li>
+                                                            <li>UPF 50</li>
+                                                            <li>FULLY REVERSIBLE 1 PLY JERSEY</li>
+                                                            <li>ANTI-CHAFE SEAMS</li>
+                                                            <li>SELF BOUND NECK AND ARMHOLES </li>
+                                                            <li>TEAR-AWAY LABELING</li>
+                                                            <li>MODERN SLIMMER CUT</li>
+                                                            <li>SIZE DOWN FOR SLIM FIT</li>
+                                                            <li>CLASSIC FIT</li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="customize-description">
+                                                        <h6> There are 27 more designs for customization, press Customize to get more excited options. </h6>
+                                                    </div>
+                                                    <div class="product-details-btn">
+                                                        <button type="button" class="btn btn-border"> Customize </button>
+                                                        <button type="button" class="btn btn-border">  Add To Custom Store  </button>
+                                                        <button type="button" class="btn btn-border cartbtn">
+                                                            <i class="fas fa-shopping-cart"></i>
+                                                            Add to Shopping Cart
+                                                        </button>
+                                                    </div>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="recently_view_product" class="col-12 recent_view">
+                <div class="row">
+                    <div class="accordion p-0" id="RecentlyViewed">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingOne">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    Recently Viewed Products
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#RecentlyViewed">
+                                <div class="accordion-body">
+                                    <div id="recent-product-content" class="col-12">
+                                        <ul class="list-unstyled">
+                                            <li>
+                                                <div class="product-item">
+                                                    <a href="#">
+                                                        <img src="~/images/recent_product/jerseysmall_01.jpg" alt="basketball">
+                                                        <div class="product-item-title">
+                                                            <div class="product-patterns-disabled hidden">
+                                                                <div>
+                                                                    <p>DP</p>
+                                                                </div>
+                                                            </div>
+                                                            <h4>  Men's Grand Slam Baseball Jersey  </h4>
+                                                            <div class="price">
+                                                                <div class="price_reg"> $85.99 </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="product-item">
+                                                    <a href="#">
+                                                        <img src="~/images/recent_product/jerseysmall_02.jpg" alt="basketball">
+                                                        <div class="product-item-title">
+                                                            <div class="product-patterns-disabled hidden">
+                                                                <div>
+                                                                    <p>DP</p>
+                                                                </div>
+                                                            </div>
+                                                            <h4> Men's Walk-Off V-Neck Baseball Jersey </h4>
+                                                            <div class="price">
+                                                                <div class="price_reg"> $65.00 </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script><script src="~/js/bootstrap.min.js"></script>
+
+<script src="~/js/bootstrap.js"></script>
+<script src="~/js/jquery.minicolors.min.js"></script>
+<script src="~/customjs/product.js"></script>
+
+<script type="text/javascript">
+       debugger;
+          $(".loader").fadeOut("slow");
+
+    const PlayerNamedata = localStorage.getItem("PlayerNameLs");
+
+    $('#PlayerName').val(PlayerNamedata);
+
+    function incrementValue(e) {
+        e.preventDefault();
+        var fieldName = $(e.target).data('field');
+        var parent = $(e.target).closest('div');
+        var currentVal = parseInt(parent.find('input[name=' + fieldName + ']').val(), 10);
+
+        if (!isNaN(currentVal)) {
+            parent.find('input[name=' + fieldName + ']').val(currentVal + 1);
+        } else {
+            parent.find('input[name=' + fieldName + ']').val(0);
+        }
+    }
+
+    function decrementValue(e) {
+        e.preventDefault();
+        var fieldName = $(e.target).data('field');
+        var parent = $(e.target).closest('div');
+        var currentVal = parseInt(parent.find('input[name=' + fieldName + ']').val(), 10);
+
+        if (!isNaN(currentVal) && currentVal > 0) {
+            parent.find('input[name=' + fieldName + ']').val(currentVal - 1);
+        } else {
+            parent.find('input[name=' + fieldName + ']').val(0);
+        }
+    }
+
+    $('.input-group').on('click', '.button-plus', function (e) {
+        incrementValue(e);
+    });
+
+    $('.input-group').on('click', '.button-minus', function (e) {
+        decrementValue(e);
+    });
+
+</script>
+
+     

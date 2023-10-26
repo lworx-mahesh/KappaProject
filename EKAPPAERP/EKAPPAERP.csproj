@@ -1,0 +1,153 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\img\Actions-format-text-bold-icon.png" />
+    <Content Remove="wwwroot\img\Actions-format-text-italic-icon.png" />
+    <Content Remove="wwwroot\img\Actions-format-text-strikethrough-icon.png" />
+    <Content Remove="wwwroot\img\Actions-format-text-underline-icon.png" />
+    <Content Remove="wwwroot\img\colors.png" />
+    <Content Remove="wwwroot\img\crew_back.png" />
+    <Content Remove="wwwroot\img\crew_front.png" />
+    <Content Remove="wwwroot\img\delete.png" />
+    <Content Remove="wwwroot\img\drag.png" />
+    <Content Remove="wwwroot\img\font_bold.png" />
+    <Content Remove="wwwroot\img\font_italic.png" />
+    <Content Remove="wwwroot\img\font_strikethrough.png" />
+    <Content Remove="wwwroot\img\font_underline.png" />
+    <Content Remove="wwwroot\img\glyphicons-halflings-white.png" />
+    <Content Remove="wwwroot\img\glyphicons-halflings.png" />
+    <Content Remove="wwwroot\img\invisibleman.jpg" />
+    <Content Remove="wwwroot\img\mens_hoodie_back.png" />
+    <Content Remove="wwwroot\img\mens_hoodie_front.png" />
+    <Content Remove="wwwroot\img\mens_longsleeve_back.png" />
+    <Content Remove="wwwroot\img\mens_longsleeve_front.png" />
+    <Content Remove="wwwroot\img\mens_tank_back.png" />
+    <Content Remove="wwwroot\img\mens_tank_front.png" />
+    <Content Remove="wwwroot\img\phones\designs\1.jpg" />
+    <Content Remove="wwwroot\img\phones\designs\2.jpg" />
+    <Content Remove="wwwroot\img\phones\designs\3.jpg" />
+    <Content Remove="wwwroot\img\phones\designs\4.jpg" />
+    <Content Remove="wwwroot\img\phones\designs\5.jpg" />
+    <Content Remove="wwwroot\img\phones\designs\6.jpg" />
+    <Content Remove="wwwroot\img\phones\designs\7.jpg" />
+    <Content Remove="wwwroot\img\phones\designs\8.jpg" />
+    <Content Remove="wwwroot\img\phones\GalaxyS3.png" />
+    <Content Remove="wwwroot\img\phones\GalaxyS3A.png" />
+    <Content Remove="wwwroot\img\phones\GalaxyS3Base.png" />
+    <Content Remove="wwwroot\img\phones\GalaxyS3Mask.png" />
+    <Content Remove="wwwroot\img\phones\iPhone3A.png" />
+    <Content Remove="wwwroot\img\phones\iPhone3GHCOverlay.png" />
+    <Content Remove="wwwroot\img\phones\iPhone4.png" />
+    <Content Remove="wwwroot\img\phones\iPhone4A.png" />
+    <Content Remove="wwwroot\img\phones\iphone4Base.png" />
+    <Content Remove="wwwroot\img\phones\iPhone4HCOverlay.png" />
+    <Content Remove="wwwroot\img\phones\iphone4Mask.png" />
+    <Content Remove="wwwroot\img\phones\iphone5.png" />
+    <Content Remove="wwwroot\img\phones\iPhone5A.png" />
+    <Content Remove="wwwroot\img\phones\iphone5Base.png" />
+    <Content Remove="wwwroot\img\phones\iphone5Mask.png" />
+    <Content Remove="wwwroot\img\rotate.png" />
+    <Content Remove="wwwroot\img\sample.jpg" />
+    <Content Remove="wwwroot\img\scale.png" />
+    <Content Remove="wwwroot\img\trigger.png" />
+    <Content Remove="wwwroot\img\womens_crew_back.png" />
+    <Content Remove="wwwroot\img\womens_crew_front.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\JSXadobeLogicScript\.vscode\launch.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.Drawing.Common" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="path\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\bootstrap-responsive.css" />
+    <None Include="wwwroot\css\bootstrap-responsive.min.css" />
+    <None Include="wwwroot\css\bootstrap.min.css" />
+    <None Include="wwwroot\css\jquery.miniColors.css" />
+    <None Include="wwwroot\css\jquery.simplecolorpicker.css" />
+    <None Include="wwwroot\img\Actions-format-text-bold-icon.png" />
+    <None Include="wwwroot\img\Actions-format-text-italic-icon.png" />
+    <None Include="wwwroot\img\Actions-format-text-strikethrough-icon.png" />
+    <None Include="wwwroot\img\Actions-format-text-underline-icon.png" />
+    <None Include="wwwroot\img\colors.png" />
+    <None Include="wwwroot\img\crew_back.png" />
+    <None Include="wwwroot\img\crew_front.png" />
+    <None Include="wwwroot\img\delete.png" />
+    <None Include="wwwroot\img\drag.png" />
+    <None Include="wwwroot\img\font_bold.png" />
+    <None Include="wwwroot\img\font_italic.png" />
+    <None Include="wwwroot\img\font_strikethrough.png" />
+    <None Include="wwwroot\img\font_underline.png" />
+    <None Include="wwwroot\img\glyphicons-halflings-white.png" />
+    <None Include="wwwroot\img\glyphicons-halflings.png" />
+    <None Include="wwwroot\img\invisibleman.jpg" />
+    <None Include="wwwroot\img\mens_hoodie_back.png" />
+    <None Include="wwwroot\img\mens_hoodie_front.png" />
+    <None Include="wwwroot\img\mens_longsleeve_back.png" />
+    <None Include="wwwroot\img\mens_longsleeve_front.png" />
+    <None Include="wwwroot\img\mens_tank_back.png" />
+    <None Include="wwwroot\img\mens_tank_front.png" />
+    <None Include="wwwroot\img\phones\designs\1.jpg" />
+    <None Include="wwwroot\img\phones\designs\2.jpg" />
+    <None Include="wwwroot\img\phones\designs\3.jpg" />
+    <None Include="wwwroot\img\phones\designs\4.jpg" />
+    <None Include="wwwroot\img\phones\designs\5.jpg" />
+    <None Include="wwwroot\img\phones\designs\6.jpg" />
+    <None Include="wwwroot\img\phones\designs\7.jpg" />
+    <None Include="wwwroot\img\phones\designs\8.jpg" />
+    <None Include="wwwroot\img\phones\GalaxyS3.png" />
+    <None Include="wwwroot\img\phones\GalaxyS3A.png" />
+    <None Include="wwwroot\img\phones\GalaxyS3Base.png" />
+    <None Include="wwwroot\img\phones\GalaxyS3Mask.png" />
+    <None Include="wwwroot\img\phones\iPhone3A.png" />
+    <None Include="wwwroot\img\phones\iPhone3GHCOverlay.png" />
+    <None Include="wwwroot\img\phones\iPhone4.png" />
+    <None Include="wwwroot\img\phones\iPhone4A.png" />
+    <None Include="wwwroot\img\phones\iphone4Base.png" />
+    <None Include="wwwroot\img\phones\iPhone4HCOverlay.png" />
+    <None Include="wwwroot\img\phones\iphone4Mask.png" />
+    <None Include="wwwroot\img\phones\iphone5.png" />
+    <None Include="wwwroot\img\phones\iPhone5A.png" />
+    <None Include="wwwroot\img\phones\iphone5Base.png" />
+    <None Include="wwwroot\img\phones\iphone5Mask.png" />
+    <None Include="wwwroot\img\rotate.png" />
+    <None Include="wwwroot\img\sample.jpg" />
+    <None Include="wwwroot\img\scale.png" />
+    <None Include="wwwroot\img\trigger.png" />
+    <None Include="wwwroot\img\womens_crew_back.png" />
+    <None Include="wwwroot\img\womens_crew_front.png" />
+    <None Include="wwwroot\js\bootstrap.js" />
+    <None Include="wwwroot\js\bootstrap.min.js" />
+    <None Include="wwwroot\js\caseEditor.js" />
+    <None Include="wwwroot\js\excanvas.js" />
+    <None Include="wwwroot\js\fabric.js" />
+    <None Include="wwwroot\js\jquery.miniColors.min.js" />
+    <None Include="wwwroot\js\tshirtEditor.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EkappaERP.BAL\EkappaERP.BAL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot\lib\bootstrap\dist\css\bootstrap.min.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
