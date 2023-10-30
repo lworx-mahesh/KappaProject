@@ -9,57 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EKAPPAERP
 build_property.RootNamespace = EKAPPAERP
-build_property.ProjectDir = D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP\
+build_property.ProjectDir = D:\Kappa Project\Kappa full Implemented project\KappaProjectGitCode\KappaProject\EKAPPAERP\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EKAPPAERP
+build_property.MSBuildProjectDirectory = D:\Kappa Project\Kappa full Implemented project\KappaProjectGitCode\KappaProject\EKAPPAERP
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Kappa Project/Kappa full Implemented project/EKAPPAERP_19102023/KappaProject/EKAPPAERP/Views/BasketBall/ItemsDetailsByID.cshtml]
+[D:/Kappa Project/Kappa full Implemented project/KappaProjectGitCode/KappaProject/EKAPPAERP/Views/BasketBall/ItemsDetailsByID.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFza2V0QmFsbFxJdGVtc0RldGFpbHNCeUlELmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kappa Project/Kappa full Implemented project/EKAPPAERP_19102023/KappaProject/EKAPPAERP/Views/Home/Index - Copy.cshtml]
+[D:/Kappa Project/Kappa full Implemented project/KappaProjectGitCode/KappaProject/EKAPPAERP/Views/Home/Index - Copy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleCAtIENvcHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kappa Project/Kappa full Implemented project/EKAPPAERP_19102023/KappaProject/EKAPPAERP/Views/Home/Index.cshtml]
+[D:/Kappa Project/Kappa full Implemented project/KappaProjectGitCode/KappaProject/EKAPPAERP/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kappa Project/Kappa full Implemented project/EKAPPAERP_19102023/KappaProject/EKAPPAERP/Views/Home/Privacy.cshtml]
+[D:/Kappa Project/Kappa full Implemented project/KappaProjectGitCode/KappaProject/EKAPPAERP/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kappa Project/Kappa full Implemented project/EKAPPAERP_19102023/KappaProject/EKAPPAERP/Views/PartialView/ProductViewer/_ProdcutViewer.cshtml]
+[D:/Kappa Project/Kappa full Implemented project/KappaProjectGitCode/KappaProject/EKAPPAERP/Views/PartialView/ProductViewer/_ProdcutViewer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbFZpZXdcUHJvZHVjdFZpZXdlclxfUHJvZGN1dFZpZXdlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kappa Project/Kappa full Implemented project/EKAPPAERP_19102023/KappaProject/EKAPPAERP/Views/PartialView/Product/_basketballItems.cshtml]
+[D:/Kappa Project/Kappa full Implemented project/KappaProjectGitCode/KappaProject/EKAPPAERP/Views/PartialView/Product/_basketballItems.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbFZpZXdcUHJvZHVjdFxfYmFza2V0YmFsbEl0ZW1zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kappa Project/Kappa full Implemented project/EKAPPAERP_19102023/KappaProject/EKAPPAERP/Views/Product/home.cshtml]
+[D:/Kappa Project/Kappa full Implemented project/KappaProjectGitCode/KappaProject/EKAPPAERP/Views/Product/home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxob21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kappa Project/Kappa full Implemented project/EKAPPAERP_19102023/KappaProject/EKAPPAERP/Views/Shared/Error.cshtml]
+[D:/Kappa Project/Kappa full Implemented project/KappaProjectGitCode/KappaProject/EKAPPAERP/Views/Registration/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmF0aW9uXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kappa Project/Kappa full Implemented project/KappaProjectGitCode/KappaProject/EKAPPAERP/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kappa Project/Kappa full Implemented project/EKAPPAERP_19102023/KappaProject/EKAPPAERP/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Kappa Project/Kappa full Implemented project/KappaProjectGitCode/KappaProject/EKAPPAERP/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kappa Project/Kappa full Implemented project/EKAPPAERP_19102023/KappaProject/EKAPPAERP/Views/_ViewImports.cshtml]
+[D:/Kappa Project/Kappa full Implemented project/KappaProjectGitCode/KappaProject/EKAPPAERP/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kappa Project/Kappa full Implemented project/EKAPPAERP_19102023/KappaProject/EKAPPAERP/Views/_ViewStart.cshtml]
+[D:/Kappa Project/Kappa full Implemented project/KappaProjectGitCode/KappaProject/EKAPPAERP/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kappa Project/Kappa full Implemented project/EKAPPAERP_19102023/KappaProject/EKAPPAERP/Views/Shared/_Layout.cshtml]
+[D:/Kappa Project/Kappa full Implemented project/KappaProjectGitCode/KappaProject/EKAPPAERP/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dd72crb3ko

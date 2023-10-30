@@ -28,7 +28,47 @@ function BasketItems(Id) {
 }
 
 
-$('#PlayerName').keyup(function () {
+
+var targInput = document.getElementById("PlayerName");
+targInput.addEventListener("blur", UpdateText, false);
+
+
+
+function UpdateText()
+{
+    debugger;
+
+    var nameval = $('#PlayerName').val();
+   // var playerNumber = $('#PlayerNumber').val();
+    
+    showLoader();
+
+    $.ajax({
+        url: "/BasketBall/textupdated",
+        type: "POST",
+        data: { Name: nameval},
+        dataType: 'html',
+        success: function (response) {
+            debugger;
+
+
+            localStorage.setItem("PlayerNameLs", nameval);
+           // localStorage.setItem("PlayerNumberLs", playerNumber);
+
+            hideLoader();
+            window.location.reload();
+            // $('#pdtViewer').html("");
+            // $('#pdtViewer').html(response);
+
+        },
+        error: function () {
+            //alert("Error");
+        }
+    });
+}
+
+
+$('#PlayerNameTest').keyup(function () {
 
     debugger;
 

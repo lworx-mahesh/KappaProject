@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EkappaERP.BAL\\EkappaERP.BAL.csproj",
+      "projectUniqueName": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EkappaERP.BAL\\EkappaERP.BAL.csproj",
       "projectName": "EkappaERP.BAL",
-      "projectPath": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EkappaERP.BAL\\EkappaERP.BAL.csproj",
+      "projectPath": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EkappaERP.BAL\\EkappaERP.BAL.csproj",
       "packagesPath": "C:\\Users\\Spadez\\.nuget\\packages\\",
-      "outputPath": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EkappaERP.BAL\\obj\\",
+      "outputPath": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EkappaERP.BAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Spadez\\AppData\\Roaming\\NuGet\\NuGet.Config",

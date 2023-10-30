@@ -34,3 +34,15 @@ D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\
 D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EkappaERP.BAL\obj\Debug\net6.0\refint\EkappaERP.BAL.dll
 D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EkappaERP.BAL\obj\Debug\net6.0\EkappaERP.BAL.pdb
 D:\Kappa Project\Kappa full Implemented project\EKAPPAERP_19102023\KappaProject\EkappaERP.BAL\obj\Debug\net6.0\ref\EkappaERP.BAL.dll
+D:\Kappa Project\Kappa full Implemented project\KappaProjectGitCode\KappaProject\EkappaERP.BAL\bin\Debug\net6.0\EkappaERP.BAL.deps.json
+D:\Kappa Project\Kappa full Implemented project\KappaProjectGitCode\KappaProject\EkappaERP.BAL\bin\Debug\net6.0\EkappaERP.BAL.dll
+D:\Kappa Project\Kappa full Implemented project\KappaProjectGitCode\KappaProject\EkappaERP.BAL\bin\Debug\net6.0\EkappaERP.BAL.pdb
+D:\Kappa Project\Kappa full Implemented project\KappaProjectGitCode\KappaProject\EkappaERP.BAL\obj\Debug\net6.0\EkappaERP.BAL.csproj.AssemblyReference.cache
+D:\Kappa Project\Kappa full Implemented project\KappaProjectGitCode\KappaProject\EkappaERP.BAL\obj\Debug\net6.0\EkappaERP.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kappa Project\Kappa full Implemented project\KappaProjectGitCode\KappaProject\EkappaERP.BAL\obj\Debug\net6.0\EkappaERP.BAL.AssemblyInfoInputs.cache
+D:\Kappa Project\Kappa full Implemented project\KappaProjectGitCode\KappaProject\EkappaERP.BAL\obj\Debug\net6.0\EkappaERP.BAL.AssemblyInfo.cs
+D:\Kappa Project\Kappa full Implemented project\KappaProjectGitCode\KappaProject\EkappaERP.BAL\obj\Debug\net6.0\EkappaERP.BAL.csproj.CoreCompileInputs.cache
+D:\Kappa Project\Kappa full Implemented project\KappaProjectGitCode\KappaProject\EkappaERP.BAL\obj\Debug\net6.0\EkappaERP.BAL.dll
+D:\Kappa Project\Kappa full Implemented project\KappaProjectGitCode\KappaProject\EkappaERP.BAL\obj\Debug\net6.0\refint\EkappaERP.BAL.dll
+D:\Kappa Project\Kappa full Implemented project\KappaProjectGitCode\KappaProject\EkappaERP.BAL\obj\Debug\net6.0\EkappaERP.BAL.pdb
+D:\Kappa Project\Kappa full Implemented project\KappaProjectGitCode\KappaProject\EkappaERP.BAL\obj\Debug\net6.0\ref\EkappaERP.BAL.dll

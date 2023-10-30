@@ -1,943 +1,943 @@
 {
   "Files": [
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EKAPPAERP.bundle.scp.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EKAPPAERP.bundle.scp.css",
       "PackagePath": "staticwebassets\\EKAPPAERP.bundle.scp.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\360rotatejs\\j360.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\360rotatejs\\j360.js",
       "PackagePath": "staticwebassets\\360rotatejs\\j360.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\360rotatejs\\jquery-1.4.4.min.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\360rotatejs\\jquery-1.4.4.min.js",
       "PackagePath": "staticwebassets\\360rotatejs\\jquery-1.4.4.min.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\CustomJs\\360_view.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\CustomJs\\360_view.js",
       "PackagePath": "staticwebassets\\CustomJs\\360_view.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\CustomJs\\Product.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\CustomJs\\Product.js",
       "PackagePath": "staticwebassets\\CustomJs\\Product.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\CustomJs\\headersticky.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\CustomJs\\headersticky.js",
       "PackagePath": "staticwebassets\\CustomJs\\headersticky.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\CustomJs\\j360.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\CustomJs\\j360.js",
       "PackagePath": "staticwebassets\\CustomJs\\j360.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\CustomJs\\jquery-1.4.4.min.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\CustomJs\\jquery-1.4.4.min.js",
       "PackagePath": "staticwebassets\\CustomJs\\jquery-1.4.4.min.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\CustomJs\\pdt360DegViewer.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\CustomJs\\pdt360DegViewer.js",
       "PackagePath": "staticwebassets\\CustomJs\\pdt360DegViewer.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\JSXadobeLogicScript\\.vscode\\launch.json",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\JSXadobeLogicScript\\.vscode\\launch.json",
       "PackagePath": "staticwebassets\\JSXadobeLogicScript\\.vscode\\launch.json"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\JSXadobeLogicScript\\Replacename.jsx",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\JSXadobeLogicScript\\Replacename.jsx",
       "PackagePath": "staticwebassets\\JSXadobeLogicScript\\Replacename.jsx"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\JSXadobeLogicScript\\TshirtRename - Original.jsx",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\JSXadobeLogicScript\\TshirtRename - Original.jsx",
       "PackagePath": "staticwebassets\\JSXadobeLogicScript\\TshirtRename - Original.jsx"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\JSXadobeLogicScript\\TshirtRename.jsx",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\JSXadobeLogicScript\\TshirtRename.jsx",
       "PackagePath": "staticwebassets\\JSXadobeLogicScript\\TshirtRename.jsx"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\JSXadobeLogicScript\\disable_adobeapp_interaction.jsx",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\JSXadobeLogicScript\\disable_adobeapp_interaction.jsx",
       "PackagePath": "staticwebassets\\JSXadobeLogicScript\\disable_adobeapp_interaction.jsx"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\JSXadobeLogicScript\\disablewarning.jsx",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\JSXadobeLogicScript\\disablewarning.jsx",
       "PackagePath": "staticwebassets\\JSXadobeLogicScript\\disablewarning.jsx"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\JSXadobeLogicScript\\json2.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\JSXadobeLogicScript\\json2.js",
       "PackagePath": "staticwebassets\\JSXadobeLogicScript\\json2.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\css\\360_view.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\css\\360_view.css",
       "PackagePath": "staticwebassets\\css\\360_view.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\css\\bootstrap-responsive.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\css\\bootstrap-responsive.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-responsive.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\css\\bootstrap-responsive.min.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\css\\bootstrap-responsive.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-responsive.min.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\css\\bootstrap.min_old.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\css\\bootstrap.min_old.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min_old.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\css\\jquery.miniColors.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\css\\jquery.miniColors.css",
       "PackagePath": "staticwebassets\\css\\jquery.miniColors.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\css\\jquery.simplecolorpicker.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\css\\jquery.simplecolorpicker.css",
       "PackagePath": "staticwebassets\\css\\jquery.simplecolorpicker.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\css\\site.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\css\\stylesheet.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\css\\stylesheet.css",
       "PackagePath": "staticwebassets\\css\\stylesheet.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\favicon.ico",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\generator_config.txt",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\generator_config.txt",
       "PackagePath": "staticwebassets\\fonts\\generator_config.txt"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-black-demo.html",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-black-demo.html",
       "PackagePath": "staticwebassets\\fonts\\roboto-black-demo.html"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-black.woff",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-black.woff",
       "PackagePath": "staticwebassets\\fonts\\roboto-black.woff"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-black.woff2",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-black.woff2",
       "PackagePath": "staticwebassets\\fonts\\roboto-black.woff2"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-blackitalic-demo.html",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-blackitalic-demo.html",
       "PackagePath": "staticwebassets\\fonts\\roboto-blackitalic-demo.html"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-blackitalic.woff",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-blackitalic.woff",
       "PackagePath": "staticwebassets\\fonts\\roboto-blackitalic.woff"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-blackitalic.woff2",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-blackitalic.woff2",
       "PackagePath": "staticwebassets\\fonts\\roboto-blackitalic.woff2"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-bold-demo.html",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-bold-demo.html",
       "PackagePath": "staticwebassets\\fonts\\roboto-bold-demo.html"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-bold.woff",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-bold.woff",
       "PackagePath": "staticwebassets\\fonts\\roboto-bold.woff"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-bold.woff2",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-bold.woff2",
       "PackagePath": "staticwebassets\\fonts\\roboto-bold.woff2"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-bolditalic-demo.html",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-bolditalic-demo.html",
       "PackagePath": "staticwebassets\\fonts\\roboto-bolditalic-demo.html"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-bolditalic.woff",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-bolditalic.woff",
       "PackagePath": "staticwebassets\\fonts\\roboto-bolditalic.woff"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-bolditalic.woff2",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-bolditalic.woff2",
       "PackagePath": "staticwebassets\\fonts\\roboto-bolditalic.woff2"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-italic-demo.html",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-italic-demo.html",
       "PackagePath": "staticwebassets\\fonts\\roboto-italic-demo.html"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-italic.woff",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-italic.woff",
       "PackagePath": "staticwebassets\\fonts\\roboto-italic.woff"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-italic.woff2",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-italic.woff2",
       "PackagePath": "staticwebassets\\fonts\\roboto-italic.woff2"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-light-demo.html",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-light-demo.html",
       "PackagePath": "staticwebassets\\fonts\\roboto-light-demo.html"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-light.woff",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-light.woff",
       "PackagePath": "staticwebassets\\fonts\\roboto-light.woff"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-light.woff2",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-light.woff2",
       "PackagePath": "staticwebassets\\fonts\\roboto-light.woff2"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-lightitalic-demo.html",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-lightitalic-demo.html",
       "PackagePath": "staticwebassets\\fonts\\roboto-lightitalic-demo.html"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-lightitalic.woff",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-lightitalic.woff",
       "PackagePath": "staticwebassets\\fonts\\roboto-lightitalic.woff"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-lightitalic.woff2",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-lightitalic.woff2",
       "PackagePath": "staticwebassets\\fonts\\roboto-lightitalic.woff2"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-medium-demo.html",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-medium-demo.html",
       "PackagePath": "staticwebassets\\fonts\\roboto-medium-demo.html"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-medium.woff",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-medium.woff",
       "PackagePath": "staticwebassets\\fonts\\roboto-medium.woff"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-medium.woff2",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-medium.woff2",
       "PackagePath": "staticwebassets\\fonts\\roboto-medium.woff2"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-mediumitalic-demo.html",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-mediumitalic-demo.html",
       "PackagePath": "staticwebassets\\fonts\\roboto-mediumitalic-demo.html"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-mediumitalic.woff",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-mediumitalic.woff",
       "PackagePath": "staticwebassets\\fonts\\roboto-mediumitalic.woff"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-mediumitalic.woff2",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-mediumitalic.woff2",
       "PackagePath": "staticwebassets\\fonts\\roboto-mediumitalic.woff2"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-regular-demo.html",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-regular-demo.html",
       "PackagePath": "staticwebassets\\fonts\\roboto-regular-demo.html"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-regular.woff",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-regular.woff",
       "PackagePath": "staticwebassets\\fonts\\roboto-regular.woff"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-regular.woff2",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-regular.woff2",
       "PackagePath": "staticwebassets\\fonts\\roboto-regular.woff2"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-thin-demo.html",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-thin-demo.html",
       "PackagePath": "staticwebassets\\fonts\\roboto-thin-demo.html"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-thin.woff",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-thin.woff",
       "PackagePath": "staticwebassets\\fonts\\roboto-thin.woff"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-thin.woff2",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-thin.woff2",
       "PackagePath": "staticwebassets\\fonts\\roboto-thin.woff2"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-thinitalic-demo.html",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-thinitalic-demo.html",
       "PackagePath": "staticwebassets\\fonts\\roboto-thinitalic-demo.html"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-thinitalic.woff",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-thinitalic.woff",
       "PackagePath": "staticwebassets\\fonts\\roboto-thinitalic.woff"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-thinitalic.woff2",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\roboto-thinitalic.woff2",
       "PackagePath": "staticwebassets\\fonts\\roboto-thinitalic.woff2"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\specimen_files\\grid_12-825-55-15.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\specimen_files\\grid_12-825-55-15.css",
       "PackagePath": "staticwebassets\\fonts\\specimen_files\\grid_12-825-55-15.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\specimen_files\\specimen_stylesheet.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\specimen_files\\specimen_stylesheet.css",
       "PackagePath": "staticwebassets\\fonts\\specimen_files\\specimen_stylesheet.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\stylesfonts.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\fonts\\stylesfonts.css",
       "PackagePath": "staticwebassets\\fonts\\stylesfonts.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\360_view.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\360_view.png",
       "PackagePath": "staticwebassets\\images\\360_view.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\front.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\front.png",
       "PackagePath": "staticwebassets\\images\\front.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\hockey_banner.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\hockey_banner.png",
       "PackagePath": "staticwebassets\\images\\hockey_banner.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\hockey_bannerv1.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\hockey_bannerv1.png",
       "PackagePath": "staticwebassets\\images\\hockey_bannerv1.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\hockey_bannerv2.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\hockey_bannerv2.png",
       "PackagePath": "staticwebassets\\images\\hockey_bannerv2.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\jersey_01.jpg",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\jersey_01.jpg",
       "PackagePath": "staticwebassets\\images\\jersey_01.jpg"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\jersey_02.jpg",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\jersey_02.jpg",
       "PackagePath": "staticwebassets\\images\\jersey_02.jpg"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\jersey_03.jpg",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\jersey_03.jpg",
       "PackagePath": "staticwebassets\\images\\jersey_03.jpg"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\logosmall.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\logosmall.png",
       "PackagePath": "staticwebassets\\images\\logosmall.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\logosmall_wht.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\logosmall_wht.png",
       "PackagePath": "staticwebassets\\images\\logosmall_wht.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\lowercasetext.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\lowercasetext.png",
       "PackagePath": "staticwebassets\\images\\lowercasetext.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\meserment.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\meserment.png",
       "PackagePath": "staticwebassets\\images\\meserment.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\product_item.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\product_item.png",
       "PackagePath": "staticwebassets\\images\\product_item.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\product_sides\\product_back.jpg",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\product_sides\\product_back.jpg",
       "PackagePath": "staticwebassets\\images\\product_sides\\product_back.jpg"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\product_sides\\product_front.jpg",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\product_sides\\product_front.jpg",
       "PackagePath": "staticwebassets\\images\\product_sides\\product_front.jpg"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\productitem.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\productitem.png",
       "PackagePath": "staticwebassets\\images\\productitem.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\recent_product\\jerseysmall_01.jpg",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\recent_product\\jerseysmall_01.jpg",
       "PackagePath": "staticwebassets\\images\\recent_product\\jerseysmall_01.jpg"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\recent_product\\jerseysmall_02.jpg",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\recent_product\\jerseysmall_02.jpg",
       "PackagePath": "staticwebassets\\images\\recent_product\\jerseysmall_02.jpg"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\reversible_short.jpg",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\reversible_short.jpg",
       "PackagePath": "staticwebassets\\images\\reversible_short.jpg"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\sizemetersmall.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\sizemetersmall.png",
       "PackagePath": "staticwebassets\\images\\sizemetersmall.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\sizemetersmall_blue.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\sizemetersmall_blue.png",
       "PackagePath": "staticwebassets\\images\\sizemetersmall_blue.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\1.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\1.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\1.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\10.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\10.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\10.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\11.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\11.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\11.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\12.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\12.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\12.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\13.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\13.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\13.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\14.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\14.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\14.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\15.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\15.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\15.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\16.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\16.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\16.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\2.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\2.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\2.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\3.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\3.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\3.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\4.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\4.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\4.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\5.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\5.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\5.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\6.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\6.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\6.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\7.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\7.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\7.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\8.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\8.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\8.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\9.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\9.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\9.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\1.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\1.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\1.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\10.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\10.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\10.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\11.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\11.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\11.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\12.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\12.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\12.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\13.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\13.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\13.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\14.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\14.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\14.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\15.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\15.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\15.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\16.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\16.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\16.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\17.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\17.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\17.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\18.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\18.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\18.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\2.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\2.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\2.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\3.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\3.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\3.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\4.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\4.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\4.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\5.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\5.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\5.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\6.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\6.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\6.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\7.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\7.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\7.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\8.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\8.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\8.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\9.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\tshirt\\Backup\\9.png",
       "PackagePath": "staticwebassets\\images\\tshirt\\Backup\\9.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\uppercasetext.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\uppercasetext.png",
       "PackagePath": "staticwebassets\\images\\uppercasetext.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\images\\zoom_icon.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\images\\zoom_icon.png",
       "PackagePath": "staticwebassets\\images\\zoom_icon.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\01.jpg",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\01.jpg",
       "PackagePath": "staticwebassets\\img\\01.jpg"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\02.jpg",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\02.jpg",
       "PackagePath": "staticwebassets\\img\\02.jpg"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\03.jpg",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\03.jpg",
       "PackagePath": "staticwebassets\\img\\03.jpg"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\04.jpg",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\04.jpg",
       "PackagePath": "staticwebassets\\img\\04.jpg"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\05.jpg",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\05.jpg",
       "PackagePath": "staticwebassets\\img\\05.jpg"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\06.jpg",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\06.jpg",
       "PackagePath": "staticwebassets\\img\\06.jpg"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\07.jpg",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\07.jpg",
       "PackagePath": "staticwebassets\\img\\07.jpg"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\08.jpg",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\08.jpg",
       "PackagePath": "staticwebassets\\img\\08.jpg"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\1.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\1.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\Tshirt backup\\1.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\10.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\10.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\Tshirt backup\\10.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\11.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\11.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\Tshirt backup\\11.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\12.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\12.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\Tshirt backup\\12.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\13.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\13.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\Tshirt backup\\13.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\14.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\14.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\Tshirt backup\\14.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\15.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\15.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\Tshirt backup\\15.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\2.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\2.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\Tshirt backup\\2.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\3.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\3.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\Tshirt backup\\3.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\4.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\4.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\Tshirt backup\\4.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\5.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\5.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\Tshirt backup\\5.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\6.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\6.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\Tshirt backup\\6.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\7.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\7.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\Tshirt backup\\7.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\8.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\8.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\Tshirt backup\\8.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\9.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\9.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\Tshirt backup\\9.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\back.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\back.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\Tshirt backup\\back.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\front.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\Tshirt backup\\front.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\Tshirt backup\\front.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\pageLoader2.gif",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\pageLoader2.gif",
       "PackagePath": "staticwebassets\\img\\Tshirts\\pageLoader2.gif"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_0.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_0.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\slice_0.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_1.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_1.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\slice_1.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_10.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_10.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\slice_10.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_11.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_11.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\slice_11.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_12.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_12.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\slice_12.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_13.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_13.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\slice_13.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_14.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_14.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\slice_14.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_15.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_15.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\slice_15.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_2.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_2.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\slice_2.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_3.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_3.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\slice_3.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_4.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_4.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\slice_4.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_5.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_5.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\slice_5.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_6.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_6.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\slice_6.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_7.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_7.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\slice_7.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_8.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_8.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\slice_8.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_9.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\Tshirts\\slice_9.png",
       "PackagePath": "staticwebassets\\img\\Tshirts\\slice_9.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\hockey_banner.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\hockey_banner.png",
       "PackagePath": "staticwebassets\\img\\hockey_banner.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\hockey_bannerv2.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\hockey_bannerv2.png",
       "PackagePath": "staticwebassets\\img\\hockey_bannerv2.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\logosmall.png",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\logosmall.png",
       "PackagePath": "staticwebassets\\img\\logosmall.png"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\img\\pageLoader2.gif",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\img\\pageLoader2.gif",
       "PackagePath": "staticwebassets\\img\\pageLoader2.gif"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\js\\bootstrap.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\js\\bootstrap.min_old.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\js\\bootstrap.min_old.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min_old.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\js\\caseEditor.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\js\\caseEditor.js",
       "PackagePath": "staticwebassets\\js\\caseEditor.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\js\\excanvas.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\js\\excanvas.js",
       "PackagePath": "staticwebassets\\js\\excanvas.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\js\\fabric.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\js\\fabric.js",
       "PackagePath": "staticwebassets\\js\\fabric.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\js\\jquery.miniColors.min.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\js\\jquery.miniColors.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.miniColors.min.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\js\\site.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\js\\tshirtEditor.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\js\\tshirtEditor.js",
       "PackagePath": "staticwebassets\\js\\tshirtEditor.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ArO21vsfCIbzFn81SSScdPMgWeqvzlR6ERUs73H2Jz+fkY1H+iH4LcKEdx9g10/y6RL+Ry3ovpBjPRkxU7ukQ==",
+  "dgSpecHash": "GEqgmBf+fg46xZnAdh8RcM6tAqlLD4rCTTjLXoN3m/I0uhDEebPiz/xHrhFEuaX56BO1Hi9QHWG8RjRbNGlFbQ==",
   "success": true,
-  "projectFilePath": "D:\\Kappa Project\\Kappa full Implemented project\\EKAPPAERP_19102023\\KappaProject\\EKAPPAERP\\EKAPPAERP.csproj",
+  "projectFilePath": "D:\\Kappa Project\\Kappa full Implemented project\\KappaProjectGitCode\\KappaProject\\EKAPPAERP\\EKAPPAERP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Spadez\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "C:\\Users\\Spadez\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",

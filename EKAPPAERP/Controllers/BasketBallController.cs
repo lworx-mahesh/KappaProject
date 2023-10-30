@@ -34,7 +34,7 @@ namespace EKAPPAERP.Controllers
         }
 
 		[HttpPost]
-		public async Task<IActionResult> textupdated(string Name)
+		public async Task<IActionResult> textupdated(string Name,string Number)
 		{
 			string illustratorPath = "C:\\AdobeIllsutrator\\Adobe Illustrator 2023\\Support Files\\Contents\\Windows\\Illustrator.exe"; // Path to Adobe Illustrator executable
 																																		// string scriptPath = "path_to_your_script.jsx"; // Path to your Adobe Illustrator script
